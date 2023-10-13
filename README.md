@@ -11,4 +11,4 @@ for hardware projects.
 You can find my portfolio [here.](https://portfolio.jackgreenberg.co)
 
 You can find my resume
-[here.](https://www.jackgreenberg.co/documents/resume.pdf)
+[here.](https://portfolio.jackgreenberg.co/resume.pdf)
